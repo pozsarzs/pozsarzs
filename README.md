@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @pozsarzs
 - 👀 I’m interested in electronics and and electrical installation, especially industrial control.
-- 🌱 I’m currently learning how can I use Modbus protocol on different platforms and OS.
 - 📫 You can reach me on e-mail (see profile), on Facebook Messenger and Google Hangouts.
 
 <!---
