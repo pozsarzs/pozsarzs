@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pozsarzs
 - 👀 I’m interested in electronics and and electrical installation, especially industrial control.
-- 📫 You can reach me on e-mail (see profile), on Facebook Messenger and Google Hangouts.
+- 📫 You can reach me on e-mail or Facebook Messenger.
 
 <!---
 pozsarzs/pozsarzs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
